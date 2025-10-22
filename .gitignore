@@ -1,0 +1,40 @@
+# Maven build directory
+/target/
+
+# Logs
+*.log
+
+# IDE files (IntelliJ IDEA, Eclipse, VS Code)
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Environment and config
+.env
+*.db
+*.sql
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Test output
+/test-output/
+
+# Lombok config (optional)
+lombok.config
